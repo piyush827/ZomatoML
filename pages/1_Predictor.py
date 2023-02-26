@@ -9,7 +9,7 @@ load_model = pickle.load(open(filename,'rb'))
 file_name = 'Cuisine_predictor'
 cuisine_model = pickle.load(open(file_name,'rb'))
 
-df = pd.read_csv('Dataset\Combined_data.csv')
+df = pd.read_csv('Combined_data.csv')
 loc_map = pd.read_csv('frq_dis_loc_map.csv')
 cus_map = pd.read_csv('frq_dis_cus_map.csv')
 
