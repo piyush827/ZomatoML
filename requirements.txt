@@ -8,4 +8,4 @@ streamlit==1.19.0
 streamlit_lottie==0.0.3
 streamlit_pandas_profiling==0.1.3
 ydata_profiling==4.0.0
-pickle4==4.0
+pickle4
