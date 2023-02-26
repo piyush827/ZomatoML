@@ -1,0 +1,661 @@
+Restaurant_Name,Latitude,Longitude,Location,Delivery_review_number
+99 Variety Dosa & Pav Bhaji,12.9368401346,77.6275635883,"Koramangala 6th Block, Bangalore",13.3K
+Hotel Revoli Inn,12.9559767755,77.5920712575,"Shanti Nagar, Bangalore","1,862"
+Empire Restaurant,12.9799195218,77.6026867703,"Shivajinagar, Bangalore",17K
+Cookie Man,12.9702304381,77.6101560518,"Garuda Mall, Magrath Road, Bangalore",217
+McDonald's,12.9760215210,77.5982782245,"MG Road, Bangalore","5,812"
+Hari Super Sandwich,12.9705985347,77.6066276712,"Brigade Road, Bangalore","1,505"
+Salt - Indian Restaurant Bar & Grill,12.9715865504,77.5960584972,"UB City, Bangalore",84
+Punjabi Dhaba,12.9669504527,77.6409813389,"Indiranagar, Bangalore","3,052"
+Domino's Pizza,12.9620393786,77.6015927643,"Shanti Nagar, Bangalore","8,979"
+Pizza Hut,12.9623252697,77.5991009921,"Shanti Nagar, Bangalore","4,529"
+KFC,12.9732595519,77.6075070340,"Brigade Road, Bangalore",469
+Burger King,12.9827171190,77.6066054776,"Commercial Street, Bangalore",10.5K
+Meghana Foods,12.9731013292,77.6092397422,"Residency Road, Bangalore",23.5K
+Five Star Chicken,12.9850702796,77.6069067090,"Shivajinagar, Bangalore",84
+Kanti Sweets,12.9704686184,77.6066775620,"Brigade Road, Bangalore","2,662"
+Leon's Burgers & Wings,12.9977255096,77.6109583693,"Frazer Town, Bangalore","3,588"
+Onesta,12.9915865000,77.5705801000,"Mantri Square, Malleshwaram, Bangalore",56
+Polar Bear,12.9495127769,77.5746348873,"Basavanagudi, Bangalore","4,856"
+Truffles,12.9719284074,77.6010630280,"St. Marks Road, Bangalore","1,836"
+Al-Bek,12.9943570457,77.5715818629,"Malleshwaram, Bangalore",34.4K
+La Pino'z Pizza,12.9467491155,77.5693371892,"Basavanagudi, Bangalore","3,582"
+A2B - Adyar Ananda Bhavan,12.9544136000,77.5930683000,"Shanti Nagar, Bangalore",806
+Corner House Ice Creams,12.9736747193,77.6093218848,"Residency Road, Bangalore","6,151"
+Nandhana Palace,12.9621305371,77.6419469342,"Indiranagar, Bangalore","8,482"
+Thalassery Restaurant,13.0150487560,77.6315744966,"Kammanahalli, Bangalore","9,181"
+CakeZone,12.9404040000,77.6251730000,"Koramangala 6th Block, Bangalore","2,672"
+Goli Vada Pav No. 1,12.9393346535,77.5840189308,"Jayanagar, Bangalore","1,117"
+Kabab Magic,12.9640984409,77.6065716147,"Richmond Town, Bangalore","2,974"
+Chicking,12.9809325000,77.5629622000,"Rajajinagar, Bangalore",937
+FreshMenu,12.9644230000,77.6058900000,"Richmond Road, Bangalore",19.2K
+EasyBites by Empire,12.9672850203,77.6089621335,"Brigade Road, Bangalore",724
+Amma's Pastries,12.9882981707,77.6175733656,"Ulsoor, Bangalore",555
+WOW! Momo,12.9751410000,77.6039710000,"Church Street, Bangalore",54
+Taco Bell,12.9702176959,77.6101322472,"Garuda Mall, Magrath Road, Bangalore","1,732"
+MOJO Pizza - 2X Toppings,12.9611680000,77.5982390000,"Shanti Nagar, Bangalore",391
+Wendy's Burgers,12.9618838537,77.5943370536,"Shanti Nagar, Bangalore",654
+WarmOven Cake & Desserts,12.9922178674,77.5942528993,"Vasanth Nagar, Bangalore",841
+Ovenstory Pizza,12.9618446457,77.5943548232,"Shanti Nagar, Bangalore","1,122"
+EatFit,12.9862830000,77.5948390000,"Cunningham Road, Bangalore","2,104"
+Big Bite,12.9674849766,77.5358337164,"Vijay Nagar, Bangalore",17.7K
+Subway,12.9718094813,77.5961988419,"UB City, Bangalore","1,212"
+Faasos - Wraps & Rolls,12.9618965963,77.5943585113,"Shanti Nagar, Bangalore",868
+Anand Sweets And Savouries,12.9816445417,77.6098227873,"Commercial Street, Bangalore","2,268"
+Imperio Restaurant,12.9348756099,77.6134129241,"Koramangala 7th Block, Bangalore","5,084"
+Mani's Dum Biryani,12.9773633341,77.6192919910,"Ulsoor, Bangalore","5,019"
+Nandhini Deluxe,12.9717748490,77.6009134948,"St. Marks Road, Bangalore","2,867"
+Sharief Bhai,12.9968192994,77.6140439138,"Frazer Town, Bangalore","8,149"
+NIC Ice Creams,12.9993824740,77.6119910181,"Frazer Town, Bangalore","2,121"
+Samosa Party,12.9697638784,77.6090308651,"Brigade Road, Bangalore","1,027"
+Kannur Food Point,12.9313376619,77.6081336662,"BTM, Bangalore",51.4K
+Imperial Restaurant,12.9713429246,77.6057850569,"Residency Road, Bangalore","6,018"
+Sri Udupi Food Hub,12.9781372357,77.5797770712,"Majestic, Bangalore",520
+Lassi Shop,12.9673820000,77.5999290000,"Residency Road, Bangalore",45
+Chickpet Donne Biryani House,12.9324427000,77.5836758000,"Jayanagar, Bangalore",295
+Pizza@99,12.9885796000,77.5482140000,"Rajajinagar, Bangalore",324
+Bakingo,12.9944153000,77.5938201000,"Vasanth Nagar, Bangalore",755
+Chai Point,12.9745869133,77.6066111773,"Church Street, Bangalore","1,772"
+Kannur Food Kitchen,12.9238006000,77.6112650000,"BTM, Bangalore",20.5K
+Rolls On Wheels,12.9854346426,77.5966199487,"Cunningham Road, Bangalore","1,299"
+Beijing Bites,12.9654981492,77.6013547182,"Richmond Road, Bangalore","4,150"
+Kwalitywall's Frozen Dessert And Ice Cream Shop,12.9508243453,77.5955725461,"Wilson Garden, Bangalore",378
+Natural Ice Cream,12.9714556432,77.6008504629,"St. Marks Road, Bangalore","1,163"
+California Burrito,12.9879597110,77.5945398957,"Sigma Mall, Cunningham Road, Bangalore","3,942"
+Falahaar & Kota Kachori,12.9345831000,77.6125063000,"Koramangala 7th Block, Bangalore",80.8K
+Behrouz Biryani,12.9619021507,77.5943226367,"Shanti Nagar, Bangalore",502
+Meat And Eat,12.9613645634,77.6373611037,"Domlur, Bangalore","2,433"
+Paakashala,12.9749423805,77.6079747453,"MG Road, Bangalore","1,495"
+The Belgian Waffle Co.,12.9889339251,77.5778240338,"Seshadripuram, Bangalore",716
+Asha Sweet Center,12.9945560000,77.5936044000,"Vasanth Nagar, Bangalore",13
+Andhra Gunpowder,12.9868100000,77.5793840000,"Seshadripuram, Bangalore",567
+Ambur Star Briyani Since 1890,12.9773724820,77.6364779100,"Indiranagar, Bangalore","7,002"
+Kolkata Kathi Rolls,12.9139282142,77.5860081241,"JP Nagar, Bangalore",13.4K
+Royal Restaurant,12.9857280210,77.6052543148,"Shivajinagar, Bangalore",25.4K
+Chinese Wok,12.9917700000,77.5712000000,"Malleshwaram, Bangalore",415
+"Frozen Bottle - Milkshakes, Desserts and Ice Cream",12.9728960000,77.6072990000,"Brigade Road, Bangalore",837
+Glen's Bakehouse,12.9698292229,77.5974812731,"Lavelle Road, Bangalore","5,379"
+Theobroma,12.9711914742,77.5976927423,"Lavelle Road, Bangalore","1,734"
+Paradise Biryani,12.9849436087,77.5458470732,"Rajajinagar, Bangalore","4,373"
+Sri Udupi Park,12.9730536283,77.6091609523,"Residency Road, Bangalore","7,961"
+Krishna Vaibhava,12.9674036219,77.5357804075,"Vijay Nagar, Bangalore",21.2K
+Dindigul Thalappakatti,12.9722538202,77.6187314093,"MG Road, Bangalore","2,560"
+RNR Biryani - Taste Of 1953,12.9286620288,77.5825065002,"Jayanagar, Bangalore","1,917"
+Call Me Chow,12.9440497946,77.6173359901,"Koramangala 8th Block, Bangalore",11.4K
+Krispy Kreme,12.9669276000,77.6115022000,"Richmond Road, Bangalore",950
+Baskin Robbins,12.9752155149,77.6039242744,"Church Street, Bangalore",400
+Royal Biryani Kitchen,12.9240083000,77.6126000000,"BTM, Bangalore",33.3K
+Pathaan Sir,12.9450334000,77.5907592000,"Wilson Garden, Bangalore",27
+Chaatimes,13.0004807585,77.6153977146,"Frazer Town, Bangalore",475
+Chicpet Donne Biriyani House,12.9363251509,77.6149431244,"Koramangala 7th Block, Bangalore","6,904"
+Kaati Zone Rolls and Wraps,12.9922139471,77.5942770392,"Vasanth Nagar, Bangalore",365
+Vijayalakshmi Veg,13.0009178833,77.6128007099,"Frazer Town, Bangalore",16.3K
+Sultan - Palace Darbar Restaurant,13.0191186194,77.6187049225,"Nagawara, Bangalore",15.9K
+Cakewala,12.9289773681,77.5862056017,"Jayanagar, Bangalore","3,833"
+Madeena Hotel,12.9352160284,77.6157328047,"Koramangala 5th Block, Bangalore",25.4K
+Hari Super Sandwich,12.9887820000,77.5775300000,"Seshadripuram, Bangalore",224
+Moriz Nano Restaurant,12.9875702856,77.6189493388,"Ulsoor, Bangalore","1,255"
+Smoor,12.9730939815,77.6003359090,"Lavelle Road, Bangalore",169
+Chaayos Chai+Snacks=Relax,12.9885099000,77.5938782000,"Cunningham Road, Bangalore",547
+Savi Sagar,12.9964726840,77.5636794046,"Malleshwaram, Bangalore",20.6K
+Shanmukha,12.9176886270,77.5925352797,"JP Nagar, Bangalore",57K
+Narmada Chain of Restaurants,13.0007845971,77.6143594086,"Frazer Town, Bangalore",473
+New Agarwal Bhavan,13.0036472948,77.5784416124,"Sadashiv Nagar, Bangalore","1,408"
+BOX8 - Desi Meals,12.9611680000,77.5982390000,"Shanti Nagar, Bangalore",770
+The Pizza Bakery,12.9751560000,77.6045570000,"Church Street, Bangalore","1,199"
+Starbucks Coffee,12.9711217345,77.5981055573,"Lavelle Road, Bangalore",395
+Karnataka Biryani Point,12.9915556593,77.5637310371,"Rajajinagar, Bangalore","2,940"
+Roti Ghar,12.9448214000,77.5718216000,"Basavanagudi, Bangalore",22.6K
+Sandwich Guru,12.9469271958,77.5678180531,"Basavanagudi, Bangalore",846
+Laddoos,12.9678890000,77.6528370000,"Jeevan Bhima Nagar, Bangalore","4,014"
+M.M.A Kabab and Rolls,12.9822371878,77.6339546219,"Old Madras Road, Bangalore","5,985"
+Chaat Street,12.9351997641,77.6134709269,"Koramangala 4th Block, Bangalore","2,679"
+The Bake Feast,12.9725110000,77.6487880000,"Indiranagar, Bangalore",730
+Kolkata Famous Kati Rolls,12.9934760000,77.5488780000,"Rajajinagar, Bangalore",289
+Bangarpet Chats,13.0140910000,77.6404470000,"Kalyan Nagar, Bangalore",44
+Biryani By Kilo,12.9809890000,77.5636020000,"Majestic, Bangalore",89
+Shree Mahalakshmi Sweets,12.9594255015,77.5626081973,"Basavanagudi, Bangalore",821
+Five Star New Ambur Biryani,12.9145628512,77.6056727394,"BTM, Bangalore",15.7K
+Zomoz - The Momo Company,12.9781230000,77.6382780000,"Indiranagar, Bangalore",992
+Razakhiya Hotel,13.0265796987,77.6226655394,"HBR Layout, Bangalore","8,148"
+Priyadarshini Grand,12.9901462968,77.5377672538,"Basaveshwara Nagar, Bangalore",29.5K
+Donne Biryani House,12.9947570000,77.5714350000,"Malleshwaram, Bangalore","7,882"
+Sangam Sweets,12.9769379537,77.5780124590,"Majestic, Bangalore",470
+New Shanthi Sagar,12.9860380608,77.5544737279,"Rajajinagar, Bangalore","7,414"
+Hyderabad Biryaani House,12.9664113534,77.6139936224,"Richmond Road, Bangalore","5,765"
+Rolls Kitchen,12.9975115486,77.5500836223,"Rajajinagar, Bangalore","5,279"
+Chetty's Corner,12.9925239788,77.5783007964,"Seshadripuram, Bangalore","2,351"
+Potful - Claypot Biryanis,12.9722005649,77.6528145745,"Thippasandra, Bangalore","2,454"
+Third Wave Coffee,12.9713517460,77.5959198922,"UB City, Bangalore",285
+Barbeque Nation,12.9736200000,77.6211700000,"Ulsoor, Bangalore",708
+Kolkata No. 1 Kati Rolls,12.9934913145,77.5490036979,"Rajajinagar, Bangalore","1,813"
+Madurai Idly Shop,12.9360947803,77.6147456467,"Koramangala 7th Block, Bangalore","3,258"
+Biggies Burger,12.9754360478,77.6032520458,"Church Street, Bangalore","1,605"
+Sagar Hotel,12.9967281537,77.5541763380,"Rajajinagar, Bangalore",10.7K
+Chowman,12.9786730000,77.6366020000,"Indiranagar, Bangalore","4,258"
+New Udupi Grand,12.9436812130,77.6069622114,"Koramangala 8th Block, Bangalore",928
+Biryani Trip - Destination Hyderabad,12.9868100000,77.5793840000,"Seshadripuram, Bangalore",188
+Savoury Restaurant,12.9995866513,77.6159539819,"Frazer Town, Bangalore","5,858"
+Kapoor's Cafe,12.9996685181,77.5525352956,"Rajajinagar, Bangalore","2,069"
+T’s 21 Spice Biryani,12.9674220000,77.6366550000,"Indiranagar, Bangalore","2,127"
+Pizza House,13.0230769000,77.6102089000,"RT Nagar, Bangalore",614
+Namaste,12.9958280000,77.5714950000,"Malleshwaram, Bangalore",64
+Just Bake,12.9885072576,77.5772510469,"Seshadripuram, Bangalore",145
+Chef Bakers,12.9359895613,77.6149709523,"Koramangala 7th Block, Bangalore",99
+Meghduth Biryanis,12.9301720592,77.5816793740,"Jayanagar, Bangalore","2,247"
+Sardarji Londonwaley,12.9362196053,77.6155399159,"Koramangala 7th Block, Bangalore",35.8K
+IDC Kitchen,12.9659398856,77.5945318490,"Residency Road, Bangalore","3,065"
+Punjabi Nawabi,12.9363080000,77.6155320000,"Koramangala 7th Block, Bangalore",27.9K
+Kabab King,12.9168721000,77.5688401000,"Kumaraswamy Layout, Bangalore","6,823"
+Arabian Shawarma,13.0156603000,77.6396949000,"Kammanahalli, Bangalore",39
+Szechuan Dragon,12.9401633223,77.5642423332,"Banashankari, Bangalore",34.4K
+Momoz,13.0212899045,77.5848487392,"RT Nagar, Bangalore","2,039"
+GOPIZZA,13.0009569000,77.6325712000,"Orion East, Banaswadi, Bangalore",121
+LunchBox - Meals and Thalis,12.9618750319,77.5943494588,"Shanti Nagar, Bangalore",219
+Donne Biryani Mane,12.9368767324,77.6276759058,"Koramangala 4th Block, Bangalore",895
+D - Zaprino,13.0019619562,77.5583585724,"Rajajinagar, Bangalore","1,648"
+Big Bowl Company,12.9352092257,77.6094823755,"Hosur Road, Bangalore","1,541"
+Delicacy,12.9984631840,77.6177061349,"Frazer Town, Bangalore","8,474"
+Aubree,13.0045959665,77.5786159560,"Sadashiv Nagar, Bangalore","3,198"
+Just Shawarma,12.9697792344,77.6387323067,"Indiranagar, Bangalore",694
+Keventers - Milkshakes & Desserts,12.9702092011,77.6092115790,"Garuda Mall, Magrath Road, Bangalore",784
+Cake N Chef,12.8977500000,77.5962700000,"Bannerghatta Road, Bangalore","7,675"
+Mandya Nati Style,12.9690607700,77.5443373248,"Vijay Nagar, Bangalore","5,826"
+Brahmins' Thatte Idli,13.0037895000,77.5779477000,"Malleshwaram, Bangalore","2,339"
+WOW! China,12.9750034764,77.6048379019,"Church Street, Bangalore",791
+Juice Junction,12.9721018956,77.6012196019,"St. Marks Road, Bangalore","1,031"
+The Dessert Heaven - Pure Veg,12.9404040000,77.6251730000,"Koramangala 6th Block, Bangalore",140
+Ambur Biryani Point,12.9418939000,77.6154492000,"Koramangala 8th Block, Bangalore",248
+Just Cakes,12.9285826221,77.6093081385,"Koramangala 7th Block, Bangalore","1,342"
+Great Indian Khichdi by EatFit,12.9862830000,77.5948390000,"Cunningham Road, Bangalore",562
+99 Varieties Dosa & Pav Bhaji,12.9140249458,77.6106415316,"BTM, Bangalore","5,754"
+Hotel Kadamba Veg,12.9974957000,77.5474606000,"Rajajinagar, Bangalore","9,040"
+ibaco,12.9475921368,77.5796982273,"Basavanagudi, Bangalore",275
+Ande Ka Funda,12.9117373646,77.6035477594,"BTM, Bangalore","1,510"
+Paratha Envy,12.9372460000,77.6246430000,"Koramangala 6th Block, Bangalore","2,187"
+Cupcake Bliss Cakes & Desserts,12.9922371423,77.5942679867,"Vasanth Nagar, Bangalore",160
+Hari Super Sandwich,12.9124383470,77.6063862070,"BTM, Bangalore","9,072"
+Texas Burgers,12.9728124000,77.6480545000,"Thippasandra, Bangalore","1,043"
+Momo Zone - The Momo Company,12.9923485447,77.5942361355,"Vasanth Nagar, Bangalore",205
+The Cake Deluxe,12.9381798000,77.5791002000,"Basavanagudi, Bangalore",138
+NH1 Bowls - Highway To North,12.9611680000,77.5982390000,"Langford Town, Bangalore",230
+Cafe Coffee Day,12.9714666000,77.5942005000,"Lavelle Road, Bangalore",23
+Anjappar,12.9742458211,77.6077045128,"Brigade Road, Bangalore","1,414"
+Aromas Of Biryani,12.9252890000,77.5858830000,"Jayanagar, Bangalore","2,039"
+New Udupi Garden,12.9567057333,77.6536413655,"Old Airport Road, Bangalore","7,342"
+Afghani Tandoori Hub,12.9239805000,77.6126063000,"BTM, Bangalore",14K
+Natraj Chole Bhature,12.9823325860,77.6379460841,"Indiranagar, Bangalore","2,471"
+The Biryani Life,12.9618502002,77.5943414122,"Shanti Nagar, Bangalore",108
+Shanthi Sagar,12.9888898209,77.5376277789,"Basaveshwara Nagar, Bangalore",12K
+Chinese BAE,13.0212902312,77.5847370923,"RT Nagar, Bangalore","1,407"
+Puliyogare Point,12.9407351545,77.5704690814,"Basavanagudi, Bangalore",34.6K
+Rotti Walla,12.9741590000,77.6359410000,"Indiranagar, Bangalore",12.6K
+Ayodhya Vihar Pure Veg,12.9685899607,77.6490963623,"Jeevan Bhima Nagar, Bangalore","9,107"
+Gowdru Hotel,12.9693894538,77.5343289971,"Vijay Nagar, Bangalore",36.8K
+Ambur Darbar Biriyani Point,13.0254374080,77.5603142381,"Yeshwantpur, Bangalore","8,469"
+Kabab King Restaurant,12.9171271993,77.5687494501,"Banashankari, Bangalore",14.8K
+Donne Biriyani Mane,12.9534625000,77.6528361000,"Old Airport Road, Bangalore",3
+Yumlane Pizza,12.9347056600,77.6160934400,"Koramangala 5th Block, Bangalore",35
+New Krishna Sagar,12.9802403503,77.6461791247,"Indiranagar, Bangalore","9,676"
+Nagarjuna,12.9732182943,77.6093208790,"Residency Road, Bangalore","2,370"
+The Cake Fancy,12.9381798000,77.5791002000,"Basavanagudi, Bangalore",106
+Roti-Wala.Com,12.9135092615,77.6041039824,"BTM, Bangalore",42.5K
+XO Belgian Waffle,12.9343384018,77.6160257310,"Building 105, Koramangala 5th Block, Bangalore",11.8K
+Sri Venkateshwara Sweetmeat Stall,12.9730846665,77.5748578459,"Majestic, Bangalore",612
+Ayodhya Sagar,12.9924576602,77.5342183560,"Basaveshwara Nagar, Bangalore","9,535"
+India Sweet House,13.0005703023,77.6154195551,"Frazer Town, Bangalore",125
+Sweet Truth - Cake and Desserts,12.9944440000,77.5937600000,"Vasanth Nagar, Bangalore",506
+Chikpet Donne Biriyani House,12.9921103853,77.5571763888,"Rajajinagar, Bangalore","5,461"
+Hotel Aditya,13.0037750000,77.5436260000,"Rajajinagar, Bangalore",14.7K
+Gopaljee Cafe,12.9368981000,77.6121217000,"Koramangala 7th Block, Bangalore","1,628"
+Mad Over Donuts,12.9705032509,77.6093031093,"Garuda Mall, Magrath Road, Bangalore","1,027"
+Muthashy's,12.9208470423,77.6132600382,"BTM, Bangalore",48K
+Indraprastha Restaurant,12.9718562023,77.5374235958,"Vijay Nagar, Bangalore",10.8K
+Cream Stone Ice Cream,13.0005875000,77.6153902000,"Frazer Town, Bangalore",938
+The Momo Co.,12.9352092257,77.6094823755,"Hosur Road, Bangalore",286
+Crusto’s - Cheese Burst Pizza,12.9404117818,77.6251965854,"Koramangala 6th Block, Bangalore",62
+Le Arabia,12.9985510623,77.5423340499,"Basaveshwara Nagar, Bangalore",21.5K
+New Taj Darbar,12.9853641000,77.6052562000,"Shivajinagar, Bangalore","6,627"
+Hakka Box,12.9660987709,77.6380737153,"Domlur, Bangalore",1
+Brothers Biriyani,12.9434387591,77.5449656323,"Basavanagudi, Bangalore","1,864"
+The Dessert Zone,12.9922217878,77.5945016742,"Vasanth Nagar, Bangalore",180
+Mealful Rolls - India's Biggest Rolls,12.9611680000,77.5982390000,"Langford Town, Bangalore",61
+The Good Bowl,12.9618884279,77.5943776220,"Shanti Nagar, Bangalore",228
+Huliyappa's Donne Biryani,13.0268243579,77.5907941908,"RT Nagar, Bangalore","1,025"
+Sri Srinivas Pork Hotel,12.9486769506,77.6274512708,"Ejipura, Bangalore","2,668"
+Sri Durga Chats & Juice,12.9724841574,77.5388451666,"Vijay Nagar, Bangalore",14K
+Shawarma Time,13.0075115414,77.5944483653,"RT Nagar, Bangalore","3,354"
+Biryani Blues,12.9746740000,77.6058510000,"Church Street, Bangalore",786
+TrueCakes,12.9563180000,77.6374470000,"Domlur, Bangalore",109
+Hotel Karavali Food Point,12.9729712952,77.5399083272,"Vijay Nagar, Bangalore",20.7K
+Sree Banashankari Donne Biriyani,12.9887401933,77.5455701351,"Basaveshwara Nagar, Bangalore",24.7K
+Uttam Sagar,13.0094193051,77.6434087381,"Banaswadi, Bangalore",16.9K
+Toscano,12.9713517460,77.5959198922,"UB City, Bangalore",849
+UBQ By Barbeque Nation,12.9736200000,77.6211700000,"Ulsoor, Bangalore","1,440"
+Donne Biryani Palace,12.9263883391,77.5847351423,"Jayanagar, Bangalore",121
+Kailash Parbat,12.9825700000,77.6098000000,"Commercial Street, Bangalore",198
+Dum Biryani Hub,12.9239923465,77.6125965267,"BTM, Bangalore",15.9K
+Gully Treats,12.9975148155,77.5410653651,"Basaveshwara Nagar, Bangalore","1,905"
+Davanagere Benne Dose,12.9196581888,77.5927961245,"Jayanagar, Bangalore",13.9K
+Bhartiya Jalpan,12.9817115166,77.6095622778,"Commercial Street, Bangalore","2,088"
+Kataria's,12.9163419000,77.6165165000,"BTM, Bangalore","4,920"
+LeanCrust Pizza- ThinCrust Experts,12.9611680000,77.5982390000,"Langford Town, Bangalore",41
+Beyond The Crust - BTC,12.9263700000,77.6094740000,"BTM, Bangalore","1,739"
+Antarastriya,12.9982848139,77.5707741827,"Malleshwaram, Bangalore","3,525"
+Upahara Darshini,12.9328993060,77.5843324140,"Jayanagar, Bangalore","8,885"
+Juicy,12.9590406058,77.6553864777,"Old Airport Road, Bangalore","7,333"
+Donne Biryani House,12.9695371327,77.5338807330,"Vijay Nagar, Bangalore","2,560"
+Ambur Hot Dum Biryani,12.9318448133,77.6073018461,"BTM, Bangalore",312
+FB Cakes,12.9165259018,77.6065199822,"BTM, Bangalore",573
+Kullad Cafe,12.9126742950,77.6100678742,"BTM, Bangalore",38K
+Antarastriya,12.9992844688,77.5493165106,"Rajajinagar, Bangalore","4,216"
+Eshanya Street Food Cafe,12.9232613323,77.5931411237,"Jayanagar, Bangalore",901
+The Thickshake Factory,12.9354010000,77.6205980000,"Koramangala 5th Block, Bangalore","1,113"
+Paris Panini - Gourmet Sandwiches,12.9702794464,77.6444725692,"Indiranagar, Bangalore","2,374"
+Wonder Sipp,12.9736606704,77.5381400809,"Vijay Nagar, Bangalore",458
+Sreeraj Lassi Bar,12.9600015370,77.5979556888,"Shanti Nagar, Bangalore",642
+Bucket Biryani,12.9671321125,77.6089845970,"Brigade Road, Bangalore",808
+Dum Safar Biryani,12.9831000000,77.5596000000,"Rajajinagar, Bangalore",271
+Tharavadu,12.9371584044,77.6196383312,"Koramangala 5th Block, Bangalore",879
+The Taj Hotel,12.9640198029,77.5776337262,"City Market, Bangalore","1,146"
+Bake and Juice,12.9317020137,77.6074081287,"Hosur Road, Bangalore",14.8K
+Shyamji's Chole Bhature,12.9354820000,77.6212050000,"Koramangala 5th Block, Bangalore",280
+Kirti Kitchen,12.9191330392,77.6181124896,"BTM, Bangalore","8,115"
+Kolkata Famous Kati Rolls,12.9572213284,77.5674888119,"City Market, Bangalore",173
+Mumbai Xpress,12.9336132998,77.6155969128,"Koramangala 5th Block, Bangalore","3,364"
+Hyderabadi Biryani Hub,12.9220094206,77.6165249571,"BTM, Bangalore",15.5K
+Bangarpet Chats,12.9861109152,77.5563801080,"Rajajinagar, Bangalore","1,957"
+Hotel N.G.T Non Veg,12.9724360000,77.5389230000,"Vijay Nagar, Bangalore",396
+Nando's,12.9726480000,77.6067980000,"Brigade Road, Bangalore",160
+Magnolia Bakery,12.9700696907,77.6407825202,"Indiranagar, Bangalore","4,929"
+King Punjabi Restaurant,12.9179938496,77.6127577946,"BTM, Bangalore",13.3K
+Daily Sushi,12.9757908300,77.6024868300,"Church Street, Bangalore",114
+La Heaven,13.0073560449,77.5711822137,"Malleshwaram, Bangalore","2,428"
+NOTO - Healthy Ice Cream,12.9676870000,77.6098490000,"Brigade Road, Bangalore",31
+Le Arabia Restaurant,12.9597685745,77.5317597762,"Vijay Nagar, Bangalore","1,895"
+Friendly Neighbourhood Pizza - Man,12.9490095824,77.5775336847,"Basavanagudi, Bangalore",122
+New Shanthi Sagar,12.9387706604,77.5800452381,"Basavanagudi, Bangalore","1,020"
+Belgian Waffle Factory,13.0178700000,77.5919800000,"RT Nagar, Bangalore",220
+Rooftop Cafe,12.9289590686,77.5862066075,"Jayanagar, Bangalore","1,340"
+Jose Mess,12.9311984565,77.6081795990,"BTM, Bangalore","5,509"
+Pasta Street,12.9882685970,77.5938307000,"Cunningham Road, Bangalore","1,928"
+Rajasthani Taj Restaurant,12.9217793636,77.6109382510,"BTM, Bangalore","7,577"
+Indiana Burgers,12.9922214611,77.5942632928,"Vasanth Nagar, Bangalore",211
+Lassi Corner,12.9672059526,77.5425895303,"Vijay Nagar, Bangalore",428
+Kolkata Famous Kati Roll,13.0259010000,77.6272060000,"HBR Layout, Bangalore",12
+Apsara Ice Creams,12.9362796000,77.6155140000,"Koramangala 5th Block, Bangalore",586
+Vaibhav Biryani,12.9986670354,77.5503659248,"Rajajinagar, Bangalore",810
+Kunafa World,12.9953325415,77.6141421497,"Frazer Town, Bangalore",966
+Melting Cheese,12.9551463000,77.5652162000,"Basavanagudi, Bangalore","3,023"
+Donne Biryani Angadi Mane,13.0061830000,77.5789350000,"Sadashiv Nagar, Bangalore","3,182"
+Habibi Falafel,12.9294806030,77.6343492419,"Koramangala 1st Block, Bangalore","3,520"
+Biryani Pot,12.9219486386,77.6165360212,"BTM, Bangalore",57.6K
+By 2 Coffee,12.9550909794,77.5664883479,"Basavanagudi, Bangalore","4,511"
+Chopstick,13.0212912111,77.5847427920,"RT Nagar, Bangalore",439
+Raidan Restaurant,13.0204500574,77.5933017151,"RT Nagar, Bangalore","1,486"
+Khan Saheb Grills And Rolls,12.9825349408,77.6107889861,"Commercial Street, Bangalore","1,331"
+Olio - The Wood Fired Pizzeria,12.9404117818,77.6251965854,"Koramangala 6th Block, Bangalore",56
+Auntie Fung's,12.9620230000,77.6416360000,"Indiranagar, Bangalore","1,796"
+Rajanna Military Hotel,12.9885774977,77.5481014699,"Rajajinagar, Bangalore","5,149"
+Calcutta Victoria Chat House,12.9686213262,77.6494447142,"Jeevan Bhima Nagar, Bangalore","3,058"
+Sweet Chariot Cafe,12.9683883717,77.6009349525,"Residency Road, Bangalore",869
+Shanthi Sagar,12.9871785727,77.6189074293,"Ulsoor, Bangalore",20.3K
+Vishnu Garden,13.0200829114,77.5923914462,"RT Nagar, Bangalore","9,115"
+Lo! - Low Carb And Keto Foods,12.9682299009,77.6401384086,"Domlur, Bangalore",851
+Home Plate by EatFit,12.9862830000,77.5948390000,"Cunningham Road, Bangalore",109
+FB Café By Frozen Bottle,12.9728960000,77.6072990000,"Shivajinagar, Bangalore",15
+Kabab Biryani Corner,12.9565655618,77.6196698472,"Richmond Road, Bangalore","2,181"
+Sri Vishnu Park,12.9166579259,77.6150326431,"BTM, Bangalore",22.6K
+Donne Biriyani House,13.0108174514,77.6350744441,"Kammanahalli, Bangalore","2,801"
+Swiss Cream,12.9586050652,77.5943665579,"Shanti Nagar, Bangalore",683
+Firangi Bake,12.9619648835,77.5944356248,"Shanti Nagar, Bangalore",48
+Keventers Ice Cream,12.9702082210,77.6101583987,"Garuda Mall, Magrath Road, Bangalore",97
+Charminar Biryani House,12.9144100000,77.6099700000,"BTM, Bangalore","4,397"
+Pure Veg Meals By LunchBox,12.9621690915,77.5943491235,"Shanti Nagar, Bangalore",22
+Tomba Kitchens,12.9503685320,77.6252263784,"Ejipura, Bangalore","1,651"
+Lulu Hypermarket,12.9812001890,77.5637423887,"Rajajinagar, Bangalore","2,312"
+Al Taza,12.9685236797,77.6401161712,"Indiranagar, Bangalore",4
+Sreenivasa Brahmins Bakery,12.9434567308,77.5677875429,"Basavanagudi, Bangalore",918
+Rolls Kitchen,12.9620495073,77.5973283872,"Langford Town, Bangalore","2,998"
+Sagar,12.9883566498,77.5771397352,"Seshadripuram, Bangalore","8,314"
+Cafe Grill,12.9687363331,77.6486776024,"Jeevan Bhima Nagar, Bangalore",12K
+Hotel Fanoos,12.9647509069,77.6064776712,"Richmond Road, Bangalore","3,475"
+Gokul Veg,12.9442112122,77.5710132346,"Basavanagudi, Bangalore","4,433"
+Kedias Fun Food,12.9288637000,77.5815806000,"Jayanagar, Bangalore",13.4K
+Al-Wahab Tandoori Restaurant,13.0253364733,77.6301559433,"HBR Layout, Bangalore","3,730"
+Rolls N Snacks,12.9715696686,77.5470202044,"Vijay Nagar, Bangalore","1,081"
+ZAZA 22 Spice Biryani,12.9611680000,77.5982390000,"Shanti Nagar, Bangalore",50
+Basaveshwarnagar Dosa Corner,12.9911397773,77.5415149704,"Basaveshwara Nagar, Bangalore","9,596"
+RollsKing,12.9353330000,77.6135000000,"BTM, Bangalore",285
+Adiga's,12.9740844395,77.5791430514,"Majestic, Bangalore","3,697"
+The Parotta Combo,12.9350716709,77.6132875308,"Koramangala 7th Block, Bangalore",884
+RB Food Point,12.9163967000,77.6164586000,"BTM, Bangalore",23.1K
+Gowda's Biriyani Corner,12.9689372684,77.5443101674,"Vijay Nagar, Bangalore",20.8K
+Brik Oven,12.9748603748,77.6053367928,"Church Street, Bangalore","1,005"
+Shawarma 21,12.9933759924,77.5633156300,"Rajajinagar, Bangalore","1,038"
+Steve's Fast Food,12.9566260000,77.6553300000,"Old Airport Road, Bangalore",231
+Sweet Moments,13.0147367924,77.6392871886,"Kammanahalli, Bangalore","1,337"
+Zaatar,12.9959510536,77.6667352423,"Old Madras Road, Bangalore",11.6K
+Shawarma Grill House,12.9924831422,77.5567924976,"Rajajinagar, Bangalore","4,281"
+Main Lassi Shop,12.9874046000,77.6038739000,"Shivajinagar, Bangalore","8,295"
+Dragon's Kitchen,12.9301720592,77.5816793740,"Jayanagar, Bangalore",429
+Ghee And Turmeric,12.9884950000,77.5937070000,"Cunningham Road, Bangalore",690
+Shuchi Ruchi,13.0012337844,77.5722621381,"Malleshwaram, Bangalore","8,278"
+San Tung Chinese,13.0066961639,77.5640384853,"Malleshwaram, Bangalore","2,178"
+Samosa Singh,12.9906399000,77.5428625000,"Basaveshwara Nagar, Bangalore",444
+Hamza Hotel,12.9860481886,77.6049579307,"Shivajinagar, Bangalore","3,861"
+The Tasty Planet,12.9561809884,77.6209402084,"Richmond Road, Bangalore",808
+Burger Elite,12.9989800000,77.5497900000,"Rajajinagar, Bangalore",417
+Priyadarshini Veg,13.0230352159,77.5567844510,"Yeshwantpur, Bangalore","7,056"
+Sri Udupi Grand,12.9674411953,77.6084266976,"Brigade Road, Bangalore","2,532"
+IBC (Indian Biryani Company),12.9353583000,77.6140701000,"Koramangala 5th Block, Bangalore",802
+Chicken County Restaurant,12.9305694170,77.6004588604,"Bannerghatta Road, Bangalore","3,174"
+Maharaja Military Canteen,12.9850407453,77.5963615820,"Cunningham Road, Bangalore",92
+Udupi Aatithya,12.9572729532,77.5701971725,"Basavanagudi, Bangalore","1,789"
+AB's - Absolute Barbecues,12.9347158200,77.6158466935,"Jatti Building, Koramangala 5th Block, Bangalore",146
+Brew Cafe,12.9310275539,77.6070306078,"BTM, Bangalore",599
+Nomad Pizza - Traveller Series,12.9783554030,77.6448672464,"Indiranagar, Bangalore",480
+Punjabi Unplugged,12.9361803932,77.6154584438,"Koramangala 7th Block, Bangalore","3,260"
+Louis Burger,12.9656047048,77.6381785319,"Indiranagar, Bangalore","1,129"
+Delhi Restaurant & Chaat,13.0340882424,77.5966786221,"RT Nagar, Bangalore",14.3K
+Halli Jonne Biriyani,12.9287103917,77.5869733840,"Jayanagar, Bangalore",13.3K
+Cheesecake & Co.,12.9414370000,77.6207280000,"Koramangala 8th Block, Bangalore",730
+Umpire Chicken County,12.9565714432,77.6197120920,"Richmond Road, Bangalore",793
+Simplee Shawarma,12.9137170000,77.6071260000,"BTM, Bangalore","1,658"
+The Ganache Factory,12.9186850108,77.5779061764,"Jayanagar, Bangalore","1,817"
+Nammura Upachara,12.9957614840,77.5394982845,"Basaveshwara Nagar, Bangalore",14.8K
+Dum Biryani Adda,12.9678698592,77.6544218883,"Jeevan Bhima Nagar, Bangalore","3,873"
+Pizza O' Clock,12.9230144000,77.6070314000,"BTM, Bangalore",372
+Boss Burger,12.9717888979,77.5983345509,"Lavelle Road, Bangalore",361
+Bansuri Sweets,12.9671775274,77.5418723747,"Vijay Nagar, Bangalore",802
+Shanthi Sagar,12.9135831175,77.5858807191,"JP Nagar, Bangalore",23.5K
+Taste Of Tibet,12.9735125000,77.6069371000,"Brigade Road, Bangalore","2,292"
+Tango Sandwich King,12.9879420692,77.5379426032,"Basaveshwara Nagar, Bangalore","3,471"
+Bombay Kulfis,12.9606850000,77.5981630000,"Shanti Nagar, Bangalore",27
+Udupi Shanthi Sagar,12.9958649003,77.6130931430,"Frazer Town, Bangalore",884
+L. J. Iyengar's Bakery,12.9324111094,77.5677526742,"Basavanagudi, Bangalore",538
+Motis Kitchen,12.9725442737,77.6533724740,"Thippasandra, Bangalore",26.6K
+Chichaba's Taj,13.0003569700,77.6173373312,"Frazer Town, Bangalore","5,240"
+Twiststick House,12.9494549422,77.5746181235,"Basavanagudi, Bangalore","4,130"
+Milano Ice Cream,12.9790132282,77.6440182701,"Indiranagar, Bangalore","2,197"
+Kanti Bakes & Flakes,13.0251434233,77.6035745814,"RT Nagar, Bangalore",510
+Amul Ice Cream Parlour,12.9138624000,77.6095488000,"BTM, Bangalore",238
+Mangalore Kitchen,12.9686046000,77.6489186000,"Jeevan Bhima Nagar, Bangalore",242
+Udupi Kitchen,12.9716520022,77.5377441198,"Vijay Nagar, Bangalore","1,534"
+G 's Chinese Dragon,12.9892926387,77.5759830326,"Seshadripuram, Bangalore","1,531"
+Dande's Hyderabad Biryani,12.9350990000,77.6133370000,"Koramangala 7th Block, Bangalore",634
+Rang De Basanti Dhaba,12.9655037036,77.6380416378,"Domlur, Bangalore","1,285"
+Bombay Kulfi,12.9571654559,77.5871178880,"Shanti Nagar, Bangalore","1,569"
+Tibb's Frankie - Serving Rolls Since 1969,12.9799793058,77.6072977974,"Shivajinagar, Bangalore",316
+ITC Sunfeast Baked Creations,12.9350618679,77.6132553443,"Koramangala 7th Block, Bangalore",226
+Mangalore Lunch Home,12.9983125821,77.5463979319,"Basaveshwara Nagar, Bangalore","3,656"
+Donne Biriyani Mane,12.9800998654,77.6462981477,"Indiranagar, Bangalore",18.3K
+Marwadi Chaat & Tiffin Services,12.9604890261,77.5982007757,"Shanti Nagar, Bangalore","7,996"
+Lavonne,12.9694168986,77.6004729420,"St. Marks Road, Bangalore",462
+Halli Mane Donne Biriyani,13.0008956689,77.5530665740,"Rajajinagar, Bangalore",14.1K
+Big Bang Pizza,12.9948082048,77.6150259376,"Frazer Town, Bangalore","1,063"
+Andhra Biryanis,13.0414619874,77.6223731786,"Nagawara, Bangalore",19.2K
+Protein Chef,12.9682299000,77.6401384100,"Indiranagar, Bangalore",109
+Simply Chats,12.9998430978,77.5399670005,"Basaveshwara Nagar, Bangalore",559
+Burger It Up,12.9922322419,77.5942609459,"Vasanth Nagar, Bangalore",19
+Hungry Bird,12.9219486386,77.6165360212,"BTM, Bangalore","7,838"
+Mallu Family Restaurant,12.9239181668,77.6108577847,"BTM, Bangalore","2,665"
+Puneri Katta,12.9136347513,77.6082731411,"BTM, Bangalore","2,502"
+Malugudi's Donne Biriyani,13.0301146581,77.5595484674,"Yeshwantpur, Bangalore",973
+Empire Juices and Desserts,12.9797764231,77.6027303562,"Shivajinagar, Bangalore",178
+TKS Iyengars,12.9916784963,77.5368690491,"Basaveshwara Nagar, Bangalore","5,865"
+Al Zara Mandi Arabian Restaurant,13.0007398416,77.6143617556,"Frazer Town, Bangalore","1,966"
+C. K. Mega Hot Food,12.9144327867,77.6101101190,"BTM, Bangalore",16.2K
+Kwality Walls Frozen Dessert And Ice Cream Shop,12.9280014798,77.5732354399,"Jayanagar, Bangalore",62
+Kabab Manor,13.0271173607,77.5933764875,"RT Nagar, Bangalore","8,200"
+Orange Bake And Juice,12.9212326506,77.6152522489,"BTM, Bangalore",226
+Singh Da Punjabi Dhaba,12.9363080000,77.6155320000,"Koramangala 7th Block, Bangalore","1,948"
+Kwality Wall’s Frozen Dessert and Ice Cream Shop,13.0218590000,77.6176502200,"Nagawara, Bangalore","1,306"
+Eat N Drink,12.9309501086,77.6067379117,"BTM, Bangalore",708
+Burger Seigneur,12.9750423556,77.6025714353,"1 Sobha, Bangalore","1,525"
+SLAY Coffee,12.9781230000,77.6382780000,"Indiranagar, Bangalore","1,511"
+Apna Dhaba,12.9401456772,77.5643841550,"Basavanagudi, Bangalore",690
+Udupi Upachar,12.9207830000,77.5694282000,"Banashankari, Bangalore","7,801"
+Le Arabia,12.9335450000,77.6227283000,"Koramangala 5th Block, Bangalore",490
+Bangalikhana,12.9361643817,77.6146987081,"Koramangala 7th Block, Bangalore","3,203"
+Sukh Sagar,12.9767500934,77.5779353455,"Majestic, Bangalore",868
+Swad Punjab Da,12.9143121992,77.6129180565,"BTM, Bangalore",37.3K
+Udupi Food Point,13.0059085511,77.6495231688,"Banaswadi, Bangalore","1,153"
+The Red Box,12.9806150000,77.6462570000,"Indiranagar, Bangalore","3,681"
+New Udupi Upahar,12.9191095103,77.5836169347,"Jayanagar, Bangalore","1,223"
+Nirula's,12.9945593491,77.5937489847,"Vasanth Nagar, Bangalore",32
+Casino Restaurant,13.0288792899,77.5710527971,"New BEL Road, Bangalore","5,898"
+KC Das,12.9759159922,77.6016705483,"St. Marks Road, Bangalore","1,010"
+Limelight - Royal Orchid Hotel,12.9572309000,77.6436085000,"Royal Orchid Hotel,  Old Airport Road, Bangalore","1,465"
+Kolkata Famous Kathi Roll,12.9103600000,77.6064833000,"BTM, Bangalore",230
+Dawat Durbar,12.9857672252,77.6051550731,"Shivajinagar, Bangalore",587
+Spicy Corner,12.9686984331,77.6487949491,"Jeevan Bhima Nagar, Bangalore","1,928"
+RS Shiv Sagar,12.9744970662,77.6100293174,"MG Road, Bangalore",744
+Just Cakes,12.9284963530,77.6094050333,"BTM, Bangalore",248
+Kekou,13.0260792734,77.6264665648,"HBR Layout, Bangalore",852
+Abhiruchi Hotel,12.9151697090,77.6153447852,"BTM, Bangalore",40.5K
+Tibetan Mother's Kitchen,12.9348481613,77.6127242669,"Koramangala 7th Block, Bangalore","6,631"
+Itminaan Matka Biryani - Slow Cooked,12.9611680000,77.5982390000,"Shanti Nagar, Bangalore",16
+Mainland China,12.9752155149,77.6039202511,"Church Street, Bangalore",823
+No.10 Fort Cochin,12.9707670000,77.6006860000,"St. Marks Road, Bangalore","2,668"
+Nadan Pothichoru,12.9350353997,77.6132996008,"Koramangala 7th Block, Bangalore","2,431"
+Aligarh House- Mughlai Biryani,12.9862830000,77.5948390000,"Cunningham Road, Bangalore",237
+Rumi,12.9704107886,77.6433661580,"Indiranagar, Bangalore","1,638"
+Chaitra Restaurant,13.0130949757,77.6424478367,"Kalyan Nagar, Bangalore","4,805"
+Lassi Shop,12.9262870046,77.5610196590,"Banashankari, Bangalore","3,300"
+Malabar Bay,12.9354520289,77.6076783612,"BTM, Bangalore","9,474"
+Punjabi Dhaba,12.9791236564,77.5768788904,"Majestic, Bangalore",819
+Hotel Aasare,13.0190839937,77.5508735329,"Yeshwantpur, Bangalore","2,619"
+Shiv Sagar,13.0021429371,77.6331432536,"Banaswadi, Bangalore",308
+New Punjabi Hotel,12.9353572662,77.6089141890,"BTM, Bangalore","9,535"
+BigBites,12.9868100000,77.5793840000,"Seshadripuram, Bangalore",6
+Kolkata Famous Kati Roll,12.9853921713,77.5451289117,"Basaveshwara Nagar, Bangalore","2,252"
+Bangarpete Chats,13.0066455294,77.5411625952,"Basaveshwara Nagar, Bangalore",455
+Boba Tree,12.9789580141,77.6409025490,"Indiranagar, Bangalore",503
+Nagarjuna Chimney,12.9328646682,77.5841607526,"Jayanagar, Bangalore","2,199"
+Akram Hotel,12.9170066131,77.5682733580,"Kumaraswamy Layout, Bangalore",421
+Vinny's,12.9243746820,77.5647750869,"Banashankari, Bangalore","3,306"
+Click & Orders,12.9242440000,77.6174900000,"Koramangala 2nd Block, Bangalore",308
+Ghee Tadka Khichdi,12.9868100000,77.5793840000,"Seshadripuram, Bangalore",38
+Hotel Sanman,12.9372672173,77.5800760835,"Basavanagudi, Bangalore","2,417"
+Ambur Dum Biryani,12.9820430000,77.6391480000,"Indiranagar, Bangalore","2,227"
+Iyengars Bakery,12.9646421194,77.5316702574,"Vijay Nagar, Bangalore",619
+Royal Treat,12.9335296467,77.6157595217,"Koramangala 5th Block, Bangalore","5,958"
+Karama Restaurant,12.9997143846,77.6159767807,"Frazer Town, Bangalore",15.6K
+Khaomomo,12.9610945012,77.6351056241,"Domlur, Bangalore",399
+Lakeview Milkbar,12.9758931222,77.6037961990,"MG Road, Bangalore","1,029"
+Rolls & Bowls Company,12.9352092257,77.6094823755,"Hosur Road, Bangalore",41
+Carols Pastries & Bakers,12.9926053253,77.5920558348,"Vasanth Nagar, Bangalore",490
+1522 - The Pub,12.9730653901,77.6089453697,"Residency Road, Bangalore",208
+Savji's Roll 'N' Biryani,12.9715954795,77.5469417498,"Vijay Nagar, Bangalore",15.6K
+Lassi Shop,13.0264310738,77.6040168107,"RT Nagar, Bangalore","2,021"
+Ande Ka Funda,12.9115680827,77.5784647465,"JP Nagar, Bangalore","2,339"
+Shrinidhi Military Hotel,12.9368022297,77.5760805979,"Basavanagudi, Bangalore","3,277"
+New Agarwal Bhavan,13.0289115700,77.5789330972,"Sanjay Nagar, Bangalore",315
+Bangarpet Chats,12.9140589326,77.6105473191,"BTM, Bangalore",448
+The Bangalore Creamery,12.9601590236,77.6453422755,"Indiranagar, Bangalore","1,206"
+7th Heaven,12.9863938384,77.5412839651,"Basaveshwara Nagar, Bangalore",41
+NH8,12.9732016317,77.6468081027,"Indiranagar, Bangalore","2,425"
+Burnout Cafe,12.9797757696,77.6037204266,"Infantry Road, Bangalore",81
+Tenzin Kitchen,12.9347115000,77.6126542000,"Koramangala 7th Block, Bangalore",10.8K
+Green Pepper,12.9690628426,77.6489174574,"Jeevan Bhima Nagar, Bangalore",11.9K
+Thalassery Cafe,13.0150673758,77.6318296418,"Kammanahalli, Bangalore",282
+Roti Sabji.Com,12.9140589326,77.6108259335,"BTM, Bangalore","2,046"
+The Tea Brewery,12.9293021835,77.6347156987,"Koramangala 1st Block, Bangalore","5,878"
+Eliza Momos,13.0259816055,77.6266449317,"HBR Layout, Bangalore",194
+SGS Non Veg - Gundu Pulav,12.9218370000,77.5850974000,"Jayanagar, Bangalore","1,164"
+Mad On Momos,12.9384422630,77.5550943241,"Banashankari, Bangalore",115
+Kunafa World,13.0282828355,77.5716740638,"Sanjay Nagar, Bangalore","1,225"
+Samovar,13.0180363996,77.6361697912,"Kammanahalli, Bangalore","4,501"
+Richie Rich,12.9868342308,77.5800090283,"Race Course Road, Bangalore","4,072"
+Wat-a-Burger! - India ka Burger,12.9325925000,77.6135078000,"Koramangala 5th Block, Bangalore",77
+Cafe Azzure,12.9753024212,77.6075824723,"MG Road, Bangalore",562
+Dil Punjabi,12.9355792541,77.6088501621,"BTM, Bangalore",342
+Gullu's Chat,12.9924988235,77.5783225894,"Seshadripuram, Bangalore","8,132"
+Chulha Chauki Da Dhaba,12.9121334444,77.5861817971,"JP Nagar, Bangalore","8,193"
+Simpli Namdhari's,12.9703253215,77.6099521684,"Brigade Road, Bangalore",43
+Aramane Donne Biriyani,12.9417608547,77.6155653968,"Koramangala 8th Block, Bangalore","1,952"
+Thottathil Food House,12.9266382927,77.6150872931,"BTM, Bangalore","9,964"
+Giani Ice Creams,12.9342867723,77.6164796948,"Koramangala 5th Block, Bangalore",451
+Oh My Shawarma,12.9364810185,77.6250875741,"Koramangala 6th Block, Bangalore",595
+Karavali Family Restaurant,12.9729775029,77.6092819870,"Brigade Road, Bangalore","1,218"
+Taj Hotel,12.9853425126,77.6072015986,"Shivajinagar, Bangalore","2,024"
+Sheesh Kebab,13.0003850647,77.6166138053,"Frazer Town, Bangalore","2,181"
+Church Street Social,12.9754670858,77.6025556773,"Church Street, Bangalore","1,362"
+No Sugar Please!,12.9313572683,77.6077558100,"Hosur Road, Bangalore","1,986"
+Art of Delight,12.9734280473,77.6092987508,"Residency Road, Bangalore","1,074"
+The Sip Shop,12.9578493000,77.5658143000,"City Market, Bangalore","1,147"
+Say Cheese Cake,12.9370959922,77.6246879250,"Koramangala 6th Block, Bangalore","2,588"
+Karnataka State Co-Operative Fisheries Federation Mysore,12.9331770000,77.5804090000,"Jayanagar, Bangalore","1,130"
+Mizo Kitchen,12.9332479705,77.6230159029,"Koramangala 5th Block, Bangalore","1,208"
+The Chaat Cult,12.9491130000,77.5742840000,"Basavanagudi, Bangalore",144
+Prezzed Juicery,12.9600680000,77.6436310000,"Old Airport Road, Bangalore",254
+Hotel Navayuga,12.9766550197,77.5756708905,"Majestic, Bangalore","3,565"
+OOttupura,12.9267330586,77.6157896966,"BTM, Bangalore","3,267"
+VFC Food Palace,13.0325670841,77.6087559387,"RT Nagar, Bangalore",645
+The Pastry House,12.9479672477,77.5971131399,"Wilson Garden, Bangalore",809
+Mane Holige,12.9370412000,77.6247075000,"Koramangala 6th Block, Bangalore",234
+Odia Khaiba,12.9595392058,77.6459357142,"Old Airport Road, Bangalore","1,323"
+Sabari Juice Junction,12.9686095641,77.6488110423,"Jeevan Bhima Nagar, Bangalore","3,997"
+Awesome Foods,12.9208101154,77.6133485511,"BTM, Bangalore","1,582"
+The Baklava Company,12.9733238243,77.6201808080,"MG Road, Bangalore",48
+Ashirvaad Grand,12.9255507687,77.6087334752,"BTM, Bangalore","3,882"
+PVR Café,12.9342289341,77.6111783087,"Nexus, Koramangala, Bangalore",79
+Savitha Family Restaurant,12.9355464648,77.6285566762,"Koramangala 4th Block, Bangalore",21K
+Hatti Kaapi,12.9476643489,77.5797669590,"Basavanagudi, Bangalore",889
+Big Chicken,13.0198088000,77.6367730000,"Kammanahalli, Bangalore","2,697"
+Sarangi,13.0043889000,77.5493712000,"Rajajinagar, Bangalore",51
+Starboy Pizza & Shakes,12.9363437800,77.6159290000,"Koramangala 7th Block, Bangalore",59
+Mini Samrat Chalukya,12.9929568465,77.5954471529,"Vasanth Nagar, Bangalore","1,579"
+S M V Snacks Corner,12.9490099091,77.5743834302,"Basavanagudi, Bangalore",432
+Just Bake - Cakes & Confectioners,12.9240639119,77.6148224249,"BTM, Bangalore",697
+Punjab Grill,12.9728500000,77.6065750000,"Brigade Road, Bangalore",29
+The Brooklyn Creamery - Healthy Ice Cream,12.9618504000,77.5940594000,"Langford Town, Bangalore",0
+Sree Spicy Hub,12.9677378622,77.6530764252,"Jeevan Bhima Nagar, Bangalore",15.9K
+AL Bain Restaurant,13.0152663136,77.6392925531,"Kammanahalli, Bangalore","1,759"
+Chai Days,12.9346465450,77.6160760224,"Koramangala 5th Block, Bangalore","1,180"
+Bathinda Junction,12.9353669000,77.6140422000,"Koramangala 7th Block, Bangalore",12.5K
+Pai Vihar,12.9658467682,77.5859772787,"City Market, Bangalore","1,380"
+Venus Biryani,12.9652808748,77.6351917908,"Domlur, Bangalore","9,729"
+Temperature Juice Bar,12.9106940000,77.6099720000,"BTM, Bangalore","3,850"
+Sri Krishna Sweets,12.9983230361,77.5697593018,"Malleshwaram, Bangalore",319
+Panchami,12.9385027143,77.5545474887,"Banashankari, Bangalore","1,013"
+Melange - By Asha Sweet Center,13.0042091807,77.5513432547,"Rajajinagar, Bangalore",239
+Karnataka Chicken Biryani Point,12.9899571398,77.5456847996,"Basaveshwara Nagar, Bangalore",721
+Sai Cafe Veg,13.0009799528,77.5722011179,"Malleshwaram, Bangalore","6,746"
+Plan B,12.9696393970,77.6065327227,"Brigade Road, Bangalore",209
+Slay Coffee Bar,12.9714200000,77.6007013000,"St. Marks Road, Bangalore",222
+RR Vatika,12.9276586000,77.5809887000,"Jayanagar, Bangalore",126
+Andhra Ruchulu,12.9962593000,77.5837624000,"Sankey Road, Bangalore",16
+Prasuma Momo Kitchen,12.9351580000,77.6135455000,"Koramangala 7th Block, Bangalore",80
+Ice Fort,12.9867362207,77.5399244204,"Basaveshwara Nagar, Bangalore",867
+Bowl Soul,12.9644230000,77.6058900000,"Richmond Town, Bangalore",8
+Shree Chats Point Bangarpete Pani Puri,12.9718189562,77.6534670219,"Indiranagar, Bangalore",690
+Uttara Karnatakada Gama Gama,12.9378511464,77.5693244487,"Basavanagudi, Bangalore",736
+Bist Dhaba,12.9192085274,77.6180816442,"BTM, Bangalore",381
+Uncle Peter's Pancakes,12.9625497349,77.6430225000,"Indiranagar, Bangalore","1,406"
+Savoury - Sea Shell Restaurant,12.9267200000,77.6161600000,"BTM, Bangalore","2,555"
+Craving O Clock,12.9105250000,77.6066160000,"BTM, Bangalore","3,741"
+Green Chilly,13.0001910152,77.5557062030,"Rajajinagar, Bangalore","5,320"
+Sanky's Burger House,13.0166934997,77.6296114549,"Hennur, Bangalore","3,223"
+Fiero! Pizzeria,12.9375867937,77.6191149652,"Koramangala 6th Block, Bangalore","3,088"
+Castle Restaurant,12.9270013442,77.6157370582,"BTM, Bangalore",418
+Lazeez,12.9336757129,77.6190670207,"Koramangala 5th Block, Bangalore","4,437"
+Shyamji's Chole Bhature,12.9873681000,77.5509517000,"Rajajinagar, Bangalore",487
+Udupi Ahara,13.0085552598,77.5434186682,"Rajajinagar, Bangalore","1,435"
+Madurai Parotta House,12.9225296624,77.6142145693,"BTM, Bangalore",675
+Wack Waffles & Brownies,12.9334590000,77.6155990000,"Koramangala 5th Block, Bangalore",210
+Tapri By The Corner,12.9355693385,77.6211708784,"Koramangala 5th Block, Bangalore","5,175"
+Sreeraj Lassi Bar,13.0263455502,77.6266315502,"HBR Layout, Bangalore",109
+Uttara Karnataka Jolada Rotti Mattu Chapati Angadi,12.9446389359,77.5703252479,"Basavanagudi, Bangalore","1,590"
+Parkview,12.9114043564,77.5989819691,"JP Nagar, Bangalore","6,260"
+Snacks Corner,12.9607760000,77.6461960000,"Jeevan Bhima Nagar, Bangalore",853
+Shahi Family Restaurant,12.9754942032,77.6225837320,"Ulsoor, Bangalore",12.8K
+Nisarga Garden,12.9415948608,77.5711681321,"Basavanagudi, Bangalore","1,871"
+Nisarga,12.9685115468,77.5377535075,"Vijay Nagar, Bangalore","2,898"
+Sri Krishna Sagar,12.9138363846,77.6061555371,"BTM, Bangalore","1,810"
+Bonomi,12.9804923000,77.6120462000,"Commercial Street, Bangalore",6
+Donne Biriyanis Junction,13.0106684904,77.6350657269,"Kammanahalli, Bangalore",920
+Juice Junction & Snacks,12.9269699735,77.5881079584,"Jayanagar, Bangalore",598
+Cafe Noir,12.9718228768,77.5961163640,"UB City, Bangalore",105
+Lassi N Cafe,12.9258847000,77.5642483000,"Banashankari, Bangalore",23
+Kartik's Mithai Shoppe,12.9783098192,77.6373067126,"Indiranagar, Bangalore",230
+New York Waffles & Dinges,12.9334590000,77.6155990000,"Koramangala 5th Block, Bangalore",93
+Nasi And Mee,12.9349347550,77.6291863248,"Koramangala 4th Block, Bangalore","1,675"
+Sri Ganesh Juice Junction,12.9365659778,77.6199615374,"Koramangala 5th Block, Bangalore",26.4K
+Chakum Chukum Calcutta On A Roll,12.9792811308,77.6468533650,"Indiranagar, Bangalore","2,989"
+Get Cake'd,12.9345183000,77.5739279000,"Basavanagudi, Bangalore",66
+Beegara Mane Baaduta,12.9672781000,77.5423750000,"Vijay Nagar, Bangalore",94
+HRX by EatFit,12.9862830000,77.5948390000,"Cunningham Road, Bangalore",43
+Gowda's Nati Cafe,12.9208561924,77.6125522703,"BTM, Bangalore",930
+Al - Pizzalicious,12.9736698185,77.6225421578,"Ulsoor, Bangalore",75
+Gowdara Hatti,13.0091390216,77.5630393624,"Malleshwaram, Bangalore","5,523"
+Pizza House,12.9933354826,77.6086342335,"Frazer Town, Bangalore",39
+JCB - Just Chole Bhature,12.9271932000,77.5794441000,"Jayanagar, Bangalore",154
+Elixir - Luxury Pearls Drink,12.9353007584,77.6138008865,"Koramangala 7th Block, Bangalore",334
+Udupi Upahar Veg Restuarant,13.0249755252,77.5934676826,"RT Nagar, Bangalore","1,019"
+Halli Mane Donne Biriyani Nati Style,12.9645454075,77.5310640782,"Vijay Nagar, Bangalore","2,619"
+Great Pizza's,13.0149145000,77.6332403000,"Kammanahalli, Bangalore",557
+New Kadai Family Restaurant,13.0182190021,77.5919951499,"RT Nagar, Bangalore",516
+Cake Pastries,12.9987820284,77.5507897139,"Rajajinagar, Bangalore",506
+Indian Chicken Biriyani Point,12.9768549685,77.5357790664,"Vijay Nagar, Bangalore",553
+Uttara Karnataka Rotti Mane,12.9883328008,77.5345606729,"Basaveshwara Nagar, Bangalore",629
+Sorbetto,12.9597130293,77.5321510434,"Vijay Nagar, Bangalore","1,393"
+Dilawar,13.0298553031,77.6342211664,"Hennur, Bangalore","1,624"
+Happy Belly Bakes,12.9716730000,77.6126100000,"MG Road, Bangalore",751
+Taiki,12.9349680854,77.5831250846,"Jayanagar, Bangalore",854
+Broast Khan,13.0157252745,77.6393589377,"Kammanahalli, Bangalore","3,205"
+Pizza Joint,13.0035391000,77.5574249000,"Malleshwaram, Bangalore",55
+Hotel Green Tara,12.9728520429,77.6071080565,"Brigade Road, Bangalore",890
+Malabar,12.9677836038,77.6544460282,"Jeevan Bhima Nagar, Bangalore","2,354"
+O4H - Order For Health,12.9150203639,77.6055423170,"BTM, Bangalore","2,196"
+Havmor Ice Cream,12.9976082478,77.5821175799,"Seshadripuram, Bangalore",334
+Tiwari's Ghee Paratha And Chaats,12.9387268741,77.5706772879,"Basavanagudi, Bangalore",601
+New Rajanna Military Hotel,12.9885912191,77.5481044874,"Rajajinagar, Bangalore",178
+Green Onion,12.9734091000,77.6092974000,"Residency Road, Bangalore","1,937"
+Holige Mane,12.9724420106,77.5378738716,"Vijay Nagar, Bangalore",414
+Asia Kitchen By Mainland China,12.9752289102,77.6039051637,"Church Street, Bangalore",146
+Delhi Biryani Point,12.9195880000,77.6141110000,"BTM, Bangalore",258
+Om Meal And Paratha Junction,12.9644908436,77.6397317648,"Domlur, Bangalore",446
+Aadvik Ka Kitchen,13.0244963290,77.5953576341,"RT Nagar, Bangalore","2,147"
+Garden Fresh,12.9126259290,77.6099823788,"BTM, Bangalore","4,088"
+Krishnam Veg,12.9600670098,77.6015049519,"Shanti Nagar, Bangalore",420
+Yak's Kitchen,12.9737374491,77.6068277657,"Shanti Nagar, Bangalore",594
+Jodhpur Sweets,12.9193332565,77.5838522921,"Jayanagar, Bangalore",717
+Chef Master,12.9237309201,77.5970098749,"Jayanagar, Bangalore","4,253"
+Donne Biriyani Mane,12.9918055802,77.5383965671,"Basaveshwara Nagar, Bangalore",643
+Sri Durga Chats & Ice Cream Parlor,12.9725459073,77.5389249623,"Vijay Nagar, Bangalore",358
+Sendhoor Coffee,12.9705342947,77.6333655856,"Indiranagar, Bangalore","2,987"
+Suryawanshi,12.9703032971,77.6358643547,"Indiranagar, Bangalore","3,565"
+You Mee,13.0113832411,77.5547097623,"Orion Mall, Malleshwaram, Bangalore","1,713"
+Sweet Bake - Cake And Desserts,12.9367730000,77.6131760000,"Koramangala 7th Block, Bangalore",27
+Sri Maruthi Miltry Hotel,13.0002867332,77.5525090098,"Rajajinagar, Bangalore","9,649"
+The Jabzz Kitchen,13.0216830000,77.6215090000,"HBR Layout, Bangalore",229
+Hive Honey Cake,12.9650830000,77.6352423000,"Domlur, Bangalore",20
+Kabab Korner,12.9719721878,77.6010227948,"St. Marks Road, Bangalore","1,029"
+Tharavadu Malabar Biryani,12.9350990000,77.6133370000,"Koramangala 7th Block, Bangalore",925
+Rahhams,13.0009093895,77.6131369919,"Frazer Town, Bangalore","9,884"
+ATH - All Things Healthy!,12.9682256931,77.6401343853,"Domlur, Bangalore",507
+Turkish Chicken Company,12.9683854000,77.6514644000,"Jeevan Bhima Nagar, Bangalore",25
+Cheesecakes By CakeZone,12.9404040000,77.6251730000,"Koramangala 6th Block, Bangalore",4
+Suchithra Biryani House,12.9590729528,77.6550951228,"Old Airport Road, Bangalore","3,440"
+Davanagere Benne Dose,12.9286522255,77.5825923309,"Jayanagar, Bangalore",441
+Goila Butter Chicken,12.9372747329,77.6244300976,"Koramangala 6th Block, Bangalore",299
+Kouzina Kafe - The Food Court,12.9922737320,77.5939662382,"Vasanth Nagar, Bangalore",30
+Thela Tapri,12.9136063000,77.6040983000,"BTM, Bangalore",416
+Hotel Royal Darbar,12.9508013000,77.5391770000,"Banashankari, Bangalore",43
+Lassi Shop,13.0005085506,77.5995710492,"Frazer Town, Bangalore",315
+Thalassery Restaurant Multi Cuisine,12.9628132091,77.6040924531,"Richmond Town, Bangalore",401
+Delhi Food Point,12.9271941437,77.6377429068,"Koramangala 1st Block, Bangalore",16.5K
+Kabab Magic Roll,12.9565515120,77.6196671650,"Richmond Road, Bangalore","1,327"
+Lemon Leaf,12.9671700000,77.6412600000,"Indiranagar, Bangalore",27
+Davanagere Benne Dose Manne,12.9578163198,77.5673070922,"Basavanagudi, Bangalore",628
+Sinful Desserts,12.9599904280,77.6455303654,"Domlur, Bangalore",165
+Sri Maruthi Gowda's Military Hotel,12.9771267939,77.5760993734,"Majestic, Bangalore",704
+Juice Junction,12.9434126186,77.5678304583,"Basavanagudi, Bangalore","1,331"
+Srinidhi Sagar Deluxe,12.9592961139,77.6383413747,"Domlur, Bangalore","2,328"
+Hotel Salala,12.9589687237,77.6553573087,"Old Airport Road, Bangalore",759
+Smoke House Deli,12.9717464243,77.5983583555,"Lavelle Road, Bangalore","2,154"
+Kolkata Famous Kati Rolls,13.0278951067,77.6043906435,"RT Nagar, Bangalore","1,322"
+Basaveshwar Khanavali,12.9328970186,77.5841708109,"Jayanagar, Bangalore",888
+Taaka Chinese,12.9644230000,77.6058900000,"Richmond Town, Bangalore",21
