@@ -4,7 +4,7 @@ import pandas_profiling
 from streamlit_pandas_profiling import st_profile_report
 
 
-df = pd.read_csv('Dataset\Combined_data.csv')
+df = pd.read_csv('Combined_data.csv')
 st.dataframe(df)
 st.title('Automated Exploratory Data Analysis')
 profile_report = df.profile_report()

@@ -3,7 +3,7 @@ import plotly_express as px
 import pandas as pd
 
 st.set_page_config(page_title= "Dashboard", page_icon= ":bar_graph:", layout= "wide")
-df = pd.read_csv('Dataset\Combined_data.csv')
+df = pd.read_csv('Combined_data.csv')
 st.markdown("<h1 style='text-align: center; color: white;'> Zomato Restraunt Dashboard </h1>", unsafe_allow_html=True)
 
 ####-----------------Different Filters------------------

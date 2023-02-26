@@ -4,14 +4,14 @@ import pickle
 import os
 import numpy as np
 
-filename = 'Machine_learning_model\price_predictor'
+filename = 'price_predictor'
 load_model = pickle.load(open(filename,'rb'))
-file_name = 'Machine_learning_model\Cuisine_predictor'
+file_name = 'Cuisine_predictor'
 cuisine_model = pickle.load(open(file_name,'rb'))
 
 df = pd.read_csv('Dataset\Combined_data.csv')
-loc_map = pd.read_csv('D:/webapp/Dataset/frq_dis_loc_map.csv')
-cus_map = pd.read_csv('D:/webapp/Dataset/frq_dis_cus_map.csv')
+loc_map = pd.read_csv('frq_dis_loc_map.csv')
+cus_map = pd.read_csv('frq_dis_cus_map.csv')
 
 st.title('Restaraunt Selector')
 
