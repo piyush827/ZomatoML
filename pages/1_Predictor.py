@@ -10,8 +10,8 @@ file_name = 'Machine_learning_model\Cuisine_predictor'
 cuisine_model = pickle.load(open(file_name,'rb'))
 
 df = pd.read_csv('Dataset\Combined_data.csv')
-loc_map = pd.read_csv('D:/webapp/Dataset/frq_dis_loc_map.csv')
-cus_map = pd.read_csv('D:/webapp/Dataset/frq_dis_cus_map.csv')
+loc_map = pd.read_csv('Dataset\frq_dis_loc_map.csv')
+cus_map = pd.read_csv('Dataset\frq_dis_cus_map.csv')
 
 st.title('Restaraunt Selector')
 
